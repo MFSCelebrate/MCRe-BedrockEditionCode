@@ -23,7 +23,8 @@
 | 5 | FeatureToggles.cpp | 开发者版本的特殊按钮实现，在正式版仅有单一功能 | ✅ 是 |
 | 6 | OverworldGenerator.cpp | 主世界生成的总调度器，用于组织生物群系层、采样高度场、构建地表方块、生成结构、后处理区块、查询结构和出生点 | ✅ 是 |
 | 7 | OverworldGenerator.h | 负责 OverworldGenerator.cpp 的接口、枚举和严格内存布局 | ✅ 是 |
-| 8 |  |  |  |
+| 8 | Minecraft.cpp | 游戏主循环等 | ✅ 是 |
+| 9 |  |  |  |
 
 ## 许可证
 本项目依据 GNU General Public License 协议开源，详见 [LICENSE](./LICENSE) 文件
